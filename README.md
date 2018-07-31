@@ -8,6 +8,7 @@ Unity制作类似io小游戏、区块链游戏的新框架
 
 在Tools目录下面有三个bat批处理脚本，client.bat是客户端批处理，server.bat是服务器批处理，redis是KV内存库启动脚本。主要的client.bat里面的内容简介：
 
+``` 
 set clientUrl="https://n6bdo6uf3kz4zy4/svn/FirClient"       //客户端SVN地址
 set clientPath="E:\workspace\ProjectOne\FirClient"          //客户端目录
 set dataUrl="https://n6bdo6uf3kz4zy4/svn/DataTable"         //数据表SVN地址
@@ -18,7 +19,7 @@ set toolPath="E:\workspace\ProjectOne\Tools\Bin"            //工具目录
 
 set user="admin"        //SVN账号
 set passwd="admin888"   //SVN密码
-
+``` 
 //-------------2018-07-31-------------
 (1)首次提交框架工程。
 
