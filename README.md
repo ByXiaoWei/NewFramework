@@ -1,5 +1,6 @@
-# NewFramework
-Unity制作类似io小游戏、区块链游戏的新框架
+# 欢迎加我进微信群进行讨论
+
+<div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>
 
 项目开源免费，求上面点星支持(star ^o^)
 
