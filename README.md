@@ -1,6 +1,6 @@
 # 欢迎加我进微信群进行讨论
 
-<div align=center><img width="150" height="150" src="https://github.com/jarjin/NewFramework/wx.jpg"/></div>
+<div align=center><img width="150" height="150" src="https://github.com/jarjin/NewFramework/blob/master/wx.jpg"/></div>
 
 项目开源免费，求上面点星支持(star ^o^)
 
